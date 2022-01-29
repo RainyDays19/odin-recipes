@@ -1,0 +1,22 @@
+* {
+    background-color: lightblue;
+}
+
+body {
+    font-family: Copperplate, sans-serif;
+}
+
+#main-list,
+#main-list a,
+#main-list li {
+    background-color: darkorchid;
+    color: white;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+#ingredients
