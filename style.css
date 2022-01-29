@@ -32,7 +32,8 @@ img {
 
 #steps, 
 .steps-list, 
-.steps-list li {
+.steps-list li, 
+.steps-list li em {
     background-color: #4b0082;
     color: #ffffff;
 }
